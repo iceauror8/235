@@ -59,7 +59,7 @@ Documentation
 
 #### Resources Used
 * In class exercises (Primarily those regarding CSS Grid, which most of the site uses).
-* [Flexbox Froggy] (https://flexboxfroggy.com/) 
+* [Flexbox Froggy](https://flexboxfroggy.com/) 
 * [Bootstrap Reboot](https://getbootstrap.com/docs/4.3/content/reboot/) (Used to set a default style for every page, making them consistant on different browsers
 * Images taken from [Fill this in later when I add images] 
 
